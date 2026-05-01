@@ -37,5 +37,5 @@ def get_warriors_got():
 
 @app.get("/Jbarcos")
 def get_warriors_got():
-    rows = ["RCM", "Inteligencia Artificial", "Chatbots", "Agentes IA"]
+    rows = ["RCM", "Inteligencia Artificial", "Chatbots", "Websites", "Agentes IA"]
     return rows
